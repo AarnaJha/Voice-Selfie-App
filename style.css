@@ -1,0 +1,35 @@
+#copy_right_footer{
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+}
+
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+h1{
+    font-family: monospace;
+    font-style: oblique;
+    font-weight: bold;
+
+}
+h4{
+    color: brown;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: crimson;
+    border-style: groove;
+}
+#result1 , #result2 , #result3 {
+align-items: center;
+padding: top 30px; ;
+ box-shadow: 0 6px 8px 0 rgba( 2, 2, 2, 0.2) ;
+} 
+
+img:hover{
+    border-radius: 140px;;
+}
